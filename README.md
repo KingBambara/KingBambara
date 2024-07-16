@@ -1,5 +1,3 @@
-![embedded-system-micro](https://github.com/user-attachments/assets/65a294cf-e947-4c98-a360-c65e1154ce60)
-
 # Hi👋, I'm MOHAMED DIARRA
 
 # 💫 About Me:
