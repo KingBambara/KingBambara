@@ -1,4 +1,5 @@
 # Hi👋, I'm MOHAMED DIARRA
+![geek](https://github.com/user-attachments/assets/be6295ef-9a82-451b-84dc-5b068c5c8b18)
 
 # 💫 About Me:
 🌱 I’m currently learning Embedded Systems<br>💼 I'm open to freelancing projects<br>📬 How to reach me:  meddiarra98@gmail.com<br>⚡ Fun fact: I like to share my knowledge and learn something new every day
